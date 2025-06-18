@@ -40,8 +40,8 @@
   "author": "Rafał Dzięgielewski <rafal.dzieg@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
-    "@prisma/client": "^6.10.0",
-    "adminjs": "^7.8.16"
+    "@prisma/client": "^5.0.0 || ^6.0.0",
+    "adminjs": "^7.0.0"
   },
   "prisma": {
     "schema": "spec/prisma/schema.prisma"
